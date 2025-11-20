@@ -34,6 +34,11 @@
 
 <br>
 
+markdown 內嵌 html 的顯示效果, 不保證。
+VS Code 的顯示樣式
+
+![image](preview.png)
+
 # 問了 Gemini, markdown 沒有什麼垂直置中的語法, 還是用表格？還是有人可以幫忙寫 HTML ？
 
 <br><br>
